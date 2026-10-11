@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #293e4b;
+  background-color: white;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.logo {
+  width: 220px;
+  max-width: 100%;
+}
+
+.intro {
+  max-width: 540px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+.learning-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-img-top {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.card {
+  color: #212529;
+}
+
+.register-box {
+  max-width: 450px;
+  margin: auto;
+}
+
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 24px 12px;
+  font-size: 14px;
+}
